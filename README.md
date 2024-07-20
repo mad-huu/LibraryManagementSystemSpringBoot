@@ -1,5 +1,6 @@
 Project Name: Library Management System Using SpringBoot
-Project No: 2
+
+Group No.: 2
 
 Team Members:
 1. Madhavi Kadam
